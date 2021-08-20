@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359448167314",
+    "project_id": "smartmeet-91aec",
+    "storage_bucket": "smartmeet-91aec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359448167314:android:e4c3e48925d86b9d41374b",
+        "android_client_info": {
+          "package_name": "com.akash.smartmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359448167314-tr0ug1t7ac2399v1veb464bq1aov3it1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaKqO607TwcN_6gwSb3pdqVwbJqSOUjyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359448167314-tr0ug1t7ac2399v1veb464bq1aov3it1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
